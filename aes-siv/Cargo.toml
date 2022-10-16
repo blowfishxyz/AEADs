@@ -24,7 +24,7 @@ cmac = "0.7"
 ctr = "0.9"
 dbl = "0.3"
 digest = { version = "0.10", features = ["mac"] }
-zeroize = { version = "1", default-features = false }
+zeroize = { version = "1.5.3", default-features = false }
 
 # optional dependencies
 pmac = { version = "0.7", optional = true }
